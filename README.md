@@ -77,7 +77,7 @@ class GlowAvatar extends StatelessWidget {
     );
   }
 }
-
+```
 
 ---
 
