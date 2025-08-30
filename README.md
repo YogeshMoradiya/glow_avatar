@@ -21,7 +21,7 @@ Easy to use, customizable, and lightweight.
 ---
 
 ## 📸 Preview
-![WhatsApp Image 2025-08-30 at 10 12 32 AM](https://github.com/user-attachments/assets/ff54044a-128c-42f6-ad4a-1b0feb187335)
+![WhatsApp Image 2025-08-30 at 10 12 32 AM (3)](https://github.com/user-attachments/assets/155dc0f4-1996-4425-ab3f-6877b0cbcf33)
 
 ##  glow_avatar Package Code
 ```library glow_avatar;
