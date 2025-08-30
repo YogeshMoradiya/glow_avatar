@@ -22,7 +22,6 @@ Easy to use, customizable, and lightweight.
 ## 📸 Preview
 
 <p align="center">
-  <img src="screenshot.png" alt="Glow Avatar Demo" width="220"/>
   ![WhatsApp Image 2025-08-30 at 10 12 32 AM](https://github.com/user-attachments/assets/7418d77b-3e19-4e84-b34a-c08160e03635)
 </p>
 
