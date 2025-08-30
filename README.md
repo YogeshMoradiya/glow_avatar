@@ -20,10 +20,8 @@ Easy to use, customizable, and lightweight.
 ---
 
 ## 📸 Preview
+![WhatsApp Image 2025-08-30 at 10 12 32 AM](https://github.com/user-attachments/assets/ff54044a-128c-42f6-ad4a-1b0feb187335)
 
-<p align="center">
-  ![WhatsApp Image 2025-08-30 at 10 12 32 AM](https://github.com/user-attachments/assets/7418d77b-3e19-4e84-b34a-c08160e03635)
-</p>
 
 ---
 
