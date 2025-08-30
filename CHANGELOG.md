@@ -5,7 +5,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [1.0.0] - 2025-08-30
+## [0.0.1] - 2025-08-30
 ### Added
 - Initial release of `glow_avatar` 🎉
 - `GlowAvatar` widget to display circular avatars with customizable glowing borders.
@@ -17,10 +17,9 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [1.0.1] - Unreleased
+## [0.0.2] - Unreleased
 ### Planned
-- Add animation to glowing effect (pulsating glow).  
-- Support for square avatars with glow.  
+- Add animation to glowing effect (pulsating glow).
+- Support for square avatars with glow.
 - Null safety improvements and code optimizations.  
 
----

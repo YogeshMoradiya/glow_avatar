@@ -1,13 +1,14 @@
 name: glow_avatar
-description: A glowing circular avatar widget for Flutter ✨
+description: A glowing circular avatar widget for Flutter.
 version: 0.0.1
-homepage: https://github.com/your-username/glow_avatar
+homepage: https://github.com/YogeshMoradiya/glow_avatar
+repository: https://github.com/YogeshMoradiya/glow_avatar
+license: MIT
 topics:
   - avatar
   - glow
   - ui
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
