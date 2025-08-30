@@ -1,16 +1,35 @@
-# glow_avatar
+# 🌟 Glow Avatar for Flutter
 
-A new Flutter project.
+[![Pub Version](https://img.shields.io/pub/v/glow_avatar.svg)](https://pub.dev/packages/glow_avatar)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/glow_avatar.svg?style=social)](https://github.com/your-username/glow_avatar)
 
-## Getting Started
+A **beautiful glowing avatar widget for Flutter** ✨.  
+Perfect for **profile pictures, user icons, social apps, chat apps, or games**.  
+Easy to use, customizable, and lightweight.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- 🔵 Glowing border around any widget
+- 🎨 Custom glow color, size, and radius
+- 🖼️ Works with **Icons, Images, Text, Emojis**
+- 📱 Flutter-ready for Android, iOS, Web, and Desktop
+- ⚡ Zero dependencies – super lightweight!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Preview
+
+<p align="center">
+  <img src="screenshot.png" alt="Glow Avatar Demo" width="220"/>
+</p>
+
+---
+
+## 📦 Installation
+
+Add to your `pubspec.yaml`:
+```yaml
+dependencies:
+  glow_avatar: ^0.0.1
