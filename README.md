@@ -2,7 +2,8 @@
 
 [![Pub Version](https://img.shields.io/pub/v/glow_avatar.svg)](https://pub.dev/packages/glow_avatar)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://github.com/YogeshMoradiya/glow_avatar)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/glow_avatar.svg?style=social)](https://github.com/YogeshMoradiya/glow_avatar)
+
 
 A **beautiful glowing avatar widget for Flutter** ✨.  
 Perfect for **profile pictures, user icons, social apps, chat apps, or games**.  
