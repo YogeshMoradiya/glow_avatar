@@ -4,6 +4,10 @@ All notable changes to the **glow_avatar** package will be documented in this fi
 This project follows [Semantic Versioning](https://semver.org/).
 
 ---
+## [1.0.2] - 2025-08-30
+### Changed
+- Updated README with better documentation for better understanding.
+
 ## [1.0.1] - 2025-08-30
 ### Changed
 - Updated README with better documentation and screenshots.
@@ -18,12 +22,3 @@ This project follows [Semantic Versioning](https://semver.org/).
   - `glowColor` → color of glow effect
   - `glowRadius` → thickness of glow
   - `child` → widget inside (usually an image or icon)
-
----
-
-## [0.0.2] - Unreleased
-### Planned
-- Add animation to glowing effect (pulsating glow).
-- Support for square avatars with glow.
-- Null safety improvements and code optimizations.  
-

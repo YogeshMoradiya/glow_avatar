@@ -41,7 +41,7 @@ class GlowAvatar extends StatelessWidget {
         border: border,
         boxShadow: [
           BoxShadow(
-            color: glowColor.withOpacity(0.7),
+            color: glowColor.withValues(alpha: 0.7),
             blurRadius: glowRadius,
             spreadRadius: 4,
           ),

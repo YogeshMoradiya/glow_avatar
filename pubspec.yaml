@@ -1,6 +1,6 @@
 name: glow_avatar
 description: A Flutter widget that displays circular avatars with a customizable glowing border, perfect for user profiles and UI effects.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/YogeshMoradiya/glow_avatar
 repository: https://github.com/YogeshMoradiya/glow_avatar
 license: MIT
@@ -10,7 +10,7 @@ topics:
   - ui
 
 environment:
-  sdk: ^3.8.1
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
