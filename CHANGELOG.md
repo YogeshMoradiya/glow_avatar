@@ -4,7 +4,7 @@ All notable changes to the **glow_avatar** package will be documented in this fi
 This project follows [Semantic Versioning](https://semver.org/).
 
 ---
-## [1.0.2] - 2025-08-30
+## [1.0.2] - 2025-09-05
 ### Changed
 - Updated README with better documentation for better understanding.
 
